@@ -1,0 +1,5 @@
+# Ignorar archivos bak
+*.bak
+
+# Ignorar la carpeta output
+output/
